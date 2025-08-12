@@ -1,4 +1,4 @@
-package adeo.leroymerlin.cdp;
+package adeo.leroymerlin.cdp.domaine;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
